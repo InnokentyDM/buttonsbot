@@ -11,7 +11,7 @@ chardet==3.0.4
 Django==2.2.3
 django-apscheduler==0.3.0
 django-timezone-field==3.0
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 future==0.17.1
 idna==2.8
 Jinja2==2.8
