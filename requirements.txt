@@ -14,7 +14,7 @@ django-timezone-field==3.0
 djangorestframework==3.3.3
 future==0.17.1
 idna==2.8
-Jinja2==2.8
+Jinja2==2.11.3
 jinja2-time==0.1.0
 kik==1.0.7
 kombu==3.0.37
