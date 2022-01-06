@@ -6,7 +6,7 @@ arrow==0.14.2
 async-timeout==3.0.1
 attrs==19.1.0
 billiard==3.3.0.23
-celery==3.1.23
+celery==5.2.2
 chardet==3.0.4
 Django==2.2.3
 django-apscheduler==0.3.0
